@@ -1,10 +1,11 @@
-# Passthrough-Bowling-Game - “*********************************************VR Passthrough Bowling Game- Week 2 of XR Bootcamp Prototyping*********************************************”
+# BowliX -
+“*********************************************VR Passthrough Bowling Game- Week 2 of XR Bootcamp Prototyping*********************************************”
 
 # Part 1: Scoping
 
 ![image](https://user-images.githubusercontent.com/60520606/159128296-733f12f0-7c50-4bbb-aa16-22c3c055d897.png)
 
-* This repostory has been made for **XR Bootcamp's Prototyping** course assignment. Here, Betül Güreş is documenting the important notes, and project essentials of the prototype made for week 1. 
+* This repostory has been made for **XR Bootcamp's Prototyping** course assignment. Here, Betül Güreş is documenting the important notes, and project essentials of the prototype made for week 2. 
 * I am a scholar among the Beyond Inclusion Scholarship program, offering XR Education
 
 ***
