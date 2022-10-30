@@ -15,7 +15,7 @@
 
 ## Idea
 
-With a mechanic involving both hands (palms facing each other, and adjusting the distance between the hands), the user shall be able to create primitive geometric gameobjects (ex: spheres, cubes, cylinders of different sizes, size is defined by the player through the creation mechanic). 
+I would like to try implementing the passthrough effect by simulating the bowling game, but there might be some power-ups, to change the gameplay, speed the ball, slow the ball, friction, etc. The track might also be different with some barriers to avoid.
 
 ![image](https://user-images.githubusercontent.com/60520606/197388469-9d88a15c-814d-4209-b90b-fc7a1a593bc4.png)
 
