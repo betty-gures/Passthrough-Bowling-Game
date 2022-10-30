@@ -1,4 +1,4 @@
-# BowliX -
+# BowlyX -
 “*********************************************VR Passthrough Bowling Game- Week 2 of XR Bootcamp Prototyping*********************************************”
 
 # Part 1: Scoping
