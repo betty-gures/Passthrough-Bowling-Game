@@ -11,7 +11,8 @@
 ***
 ## Resources/Inspiration
 
-![image](https://user-images.githubusercontent.com/60520606/197388541-ef1f8ce6-e578-40fc-b730-8e223ea50fa5.png)             ![image](https://user-images.githubusercontent.com/60520606/197388547-4ac452e3-3265-4bde-a9cf-f618c4c436d4.png)
+Resources: https://game8.co/games/Nintendo-Switch-Sports/archives/376928
+![image](https://user-images.githubusercontent.com/60520606/198892841-acc6ab39-6979-48d5-a8e5-a97bbf1da774.png)
 
 ## Idea
 
@@ -27,26 +28,19 @@ By placing the created objects in 3D space, the player creates artistic spaces a
 
 These are the features that your prototype really needs to function or to prove your point.
 
-- The user shall create primitive 3D objects
-- Some way of choosing the primitive
-- The user shall decide on the size of the objects (core mechanic)
-- The user shall place objects as they desire
-- The user shall be able to position the pieces in the 3D space (glue or create them in right spot)
-- The system shall offer color pallets to the users
-- Objects shall appear with an initial color, assigned randomly according to the chosen color pallet
+- The system shall provide an AR experience through the passthough effect
+- The user shall pick up the desired bowling ball
+- Bowling balls shall be different in weight
+- The user shall throw the bowling ball towards obstacles
+- The track shall provide interesting level design
 
 **Stretch goals:** 
 
 These are features that are nice to have, and that you might implement if you have extra time, or in the future.
 
-- The user shall be able to paint objects, with a paintball weapon
-- The user shall be able to walk over small objects (creating stairs with smaller boxes)
-- The user shall add sound that can be added to objects (as player moves through the space they may hear the audio play).
-- The user shall add lights, change lights, change skybox colors within gameplay
-- The user shall add particles within gameplay
-- The system shall have a nice ui and ux, that is easy to navigate
-- There can be a free mode, in addition to the color pallet sugestions
-
+- The user shall pick the bowling balls through hand tracking/ pinching from bowling ball holes  
+- Polishing physics
+- Level System and changing tracks
 
 
 
@@ -63,7 +57,7 @@ These are features that are nice to have, and that you might implement if you ha
 
 ![image](https://user-images.githubusercontent.com/60520606/159128215-1d3daa78-beee-49ce-a498-3fd2bf06664a.png)
 
-### Project Name : Articraft
+### Project Name : BowlyX
 
 ***
 
@@ -81,7 +75,7 @@ These are features that are nice to have, and that you might implement if you ha
 ### Tools:
 - **Software**:
 
-  Unity, XR interaction Toolkit
+  Unity, XR interaction Toolkit, Passthough, Hand Tracking
   
 - **Hardware**: 
 
