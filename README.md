@@ -47,7 +47,7 @@ These are features that are nice to have, and that you might implement if you ha
 ![image](https://user-images.githubusercontent.com/60520606/159128271-92556441-6668-4fa6-a548-7519c0c5ad94.png)
 
 
-* This repository will be updated on a regular pace, for one week (26th October 2022).
+* This repository will be updated on a regular pace, for one week (2nd November 2022).
 * At the end of the week, a beautiful, running and error free VR protoype will be delivered. 
 
 
