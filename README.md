@@ -1,6 +1,8 @@
 # BowlyX -
 “*********************************************VR Passthrough Bowling Game- Week 2 of XR Bootcamp Prototyping*********************************************”
 
+![ezgif-3-8ee0deca81](https://user-images.githubusercontent.com/60520606/199569851-ef5a83c3-76cc-4c3b-889b-0d6208a9e934.gif)
+
 # Part 1: Scoping
 
 ![image](https://user-images.githubusercontent.com/60520606/159128296-733f12f0-7c50-4bbb-aa16-22c3c055d897.png)
