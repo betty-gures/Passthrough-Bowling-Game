@@ -3,6 +3,8 @@
 
 ![ezgif-3-8ee0deca81](https://user-images.githubusercontent.com/60520606/199569851-ef5a83c3-76cc-4c3b-889b-0d6208a9e934.gif)
 
+### [Project Gameplay Video Link](https://www.youtube.com/watch?v=k_K7RlTcZCE&ab_channel=bet%C3%BClg%C3%BCre%C5%9F)
+
 # Part 1: Scoping
 
 ![image](https://user-images.githubusercontent.com/60520606/159128296-733f12f0-7c50-4bbb-aa16-22c3c055d897.png)
