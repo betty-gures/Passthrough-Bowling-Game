@@ -77,7 +77,7 @@ These are features that are nice to have, and that you might implement if you ha
 ### Tools:
 - **Software**:
 
-  Unity, XR interaction Toolkit, Passthough, Hand Tracking
+  Unity, Oculus interaction Toolkit, Passthough, Hand Tracking
   
 - **Hardware**: 
 
